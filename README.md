@@ -1,1 +1,3 @@
-# cod3r-javascript
+# Curso JavaScript
+### JavaScritp é uma linguagem fracamente tipada (dinamicamente tipada)
+
